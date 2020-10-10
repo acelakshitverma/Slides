@@ -19,7 +19,7 @@ Professional Experience :
     💬 Ask me about Enterpreneurship , Communication Skils.
     📫 How to reach me: DM on Instagram
     😄 Pronouns: He/Him
-    ⚡ Fun fact: Motor Racing | Swimming | Travelling | Following my long list of dreams.... (available on insta)
+    ⚡ Fun fact: Tech Stuffs | Writing | Travelling | 
     ❤️ I love giving public talks and intercating with people. Also love to help students & professionals in making out something big.
     💬 Ping me to give a talk, acelakshitverma@gmail.com
 
@@ -31,3 +31,8 @@ Follow me on my social networks:
 3. Instagram : https://www.instagram.com/acelakshitverma
 4. LinkedIn :  htps://www.linkedin.com/in/acelakshitverma/
 5. Youtube :   https://www.Youtube.com/AceTrivia
+
+Support Me!
+
+Paypal : kalihaxor@gmail.com 
+

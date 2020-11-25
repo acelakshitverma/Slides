@@ -3,15 +3,16 @@
 
 Myself! 
 
-Myself Lakshit Verma An Independent Security Reseracher , Ethical Hacker & OSINT Evangelist , Freelance Consultant To Law Enforcemnt Agencies.
+Myself Lakshit Verma An Independent Security Reseracher , Ethical Hacker & OSINT Evangelist , Freelance Consultant To Law Enforcemnt Agencies Founder Of We Are Plymouths Foundation.
 
 Professional Experience : 
 
     Founder of We Are Plymouths Foundation
     Chapter Leader at THM Jaipur
-    Mentor of Change at Faigazee Media Pvt Ltd.
+    Mentor of Change at Fairgaze Media Pvt Ltd.
     Influencer & Curator At The Campus Connect!
-    About Me
+    
+    About Me :
 
     🔭 I Mainly Deal With Osint Investigations , Web App Security
     🌱 I’m currently learning IOT Hacking & Hardware Exploitation

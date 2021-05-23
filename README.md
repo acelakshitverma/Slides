@@ -1,29 +1,11 @@
 # Slides
 
 
-Myself! 
+Security Talks Slides
 
-Myself Lakshit Verma An Independent Security Reseracher , Ethical Hacker & OSINT Evangelist , Freelance Consultant To Law Enforcemnt Agencies Founder Of We Are Plymouths Foundation.
+This repository contains all the Talk slides that I have given at various security conferences, events & meetups. {Some of the slides contain content such as tool references from various genius minds and I appreciate all of them for their great work!}
 
-Professional Experience : 
-
-    Founder of We Are Plymouths Foundation
-    Chapter Leader at THM Jaipur
-    Mentor of Change at Fairgaze Media Pvt Ltd.
-    Influencer & Curator At The Campus Connect!
-    
-    About Me :
-
-    🔭 I Mainly Deal With Osint Investigations , Web App Security
-    🌱 I’m currently learning IOT Hacking & Hardware Exploitation
-    👯 I’m looking to collaborate on everything which gives me a spark.
-    💬 Ask me about Enterpreneurship , Communication Skils.
-    📫 How to reach me: DM on Instagram
-    😄 Pronouns: He/Him
-    ⚡ Fun fact: Tech Stuffs | Writing | Travelling | 
-    ❤️ I love giving public talks and intercating with people. Also love to help students & professionals in making out something big.
-    💬 Ping me to give a talk, acelakshitverma@gmail.com
-
+Feel free to utilize the content by providing the proper references.
    
 Follow me on my social networks:
 
